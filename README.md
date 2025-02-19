@@ -21,6 +21,10 @@ This notebook implements the game of **Tic-Tac-Toe (Tris)** using **NumPy** for 
 - **perfectStrategy**: plays optimally to guarantee at least a tie
 - **centerCornerEdgeStrategy**: prioritizes the center, followed by corners, and then edges for optimal placement
 
+## 📊 Strategy Analysis
+
+At the end of the project, an analysis was performed to evaluate the effectiveness of each strategy. The performance and outcomes of the different strategies were compared to understand which one offers the best results under various conditions.
+
 ## 📌 Requirements
 
 - Python 3.x
